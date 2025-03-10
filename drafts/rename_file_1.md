@@ -1,14 +1,24 @@
 ---
-permalink: /this-is-an-example-post-5
+permalink: /
 title: This is an Example Post 5
 date: 2025-03-08 09:48:21
 tags: [Markdown, Best Practices]
 ---
 
-## You can modify the 'permalink' at any time without worrying about SEO weight of the post being reduced.
+## Key 'permalink'
 
-That's because we append a unique string (e.g.: `-i3K`) to the end of each post link.
-So for this post, the real path would be like `https://example.com/this-is-an-example-post-i3K`.
+### When 'permalink' is Empty, '/', or Invalid
+If the `permalink` value is empty, `/`, or invalid, we will automatically generate a `permalink` based on the value of `title`.
+
+For example, if the title is `This is an Example Post`, the corresponding permalink will be `this-is-an-example-post`.
+Spaces are replaced with `-`, illegal characters will be deleted, and all lowercase letters are used.
+
+Next time you modify the `title`, the value of `permalink` will also change accordingly.
+
+### You can modify the 'permalink' at any time without worrying about SEO weight of the post being reduced.
+
+That's because we append a `-` and a number (e.g.: `1472`) to the end of each post link.
+So for this post, the real path would be like `your-domain.com/this-is-an-example-post-1472`.
 
 Visiting a stale URL will be redirected to the fresh URL with status 301.
 
