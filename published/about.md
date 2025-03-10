@@ -7,7 +7,7 @@ tags: []
 
 Your blog's **About Me** page is generated from this file. Please modify the contents of this file to suit your own needs.
 
-You can change anything in this file except for the `permalink: /about`.
+You can change anything in this file except for the `permalink: /about` because it indicates that this post corresponds to a special link on the blog, such as `https://your-domain.com/about`, which is used to introduce yourself.
 
 Below is a short example.
 
