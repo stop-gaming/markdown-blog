@@ -1,5 +1,6 @@
 # Markdown Blog Posts Template
 
+- This is where you write your blog, using your favorite **Markdown** and **Git**.
 - Please don't rename this repository. Keep it as **markdown-blog-posts**.
 - The *Markdown files* **only** in the [drafts](./drafts) and [published](./published) directories will be **synchronized** to your blog as **posts**.
 
