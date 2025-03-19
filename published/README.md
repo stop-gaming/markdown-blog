@@ -1,12 +1,13 @@
 ---
 id: x7I
-permalink: /
 title: This is an Example Post 1
+permalink: /
 date: 2025-03-19 10:29:28
 tags: [Markdown, Best Practices]
 ---
 
-This document is a template for a blog post. You can copy and rename it and write a blog post based on it.
+- This file can be used as a template for a blog post.
+- The first 7 lines are metadata. The `id` and `title` lines are required, and the others can be omitted.
 
 ## Key 'id'
 
