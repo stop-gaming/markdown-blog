@@ -13,9 +13,9 @@ tags: [Markdown, Best Practices]
 ## Key 'id'
 
 - `id` is **required**. Post will not be created on the blog without an `id`.
-- `id` should be **unique**. If multiple posts have the same `id`, only one post will be published on the blog.
+- `id` should be **unique**. If multiple posts have the same `id`, only one post will be displayed on the blog.
 - For an `id` value, upper and lower case letters, numbers, and `_` are valid.
-- You can name the Markdown file anything you want. The file name doesn't matter because we use `id` to identify a blog post.
+- You can name the Markdown file anything you want. The file name doesn't matter because we mainly use `id` to identify a *post*.
 
 ## Key 'permalink'
 
@@ -28,7 +28,7 @@ tags: [Markdown, Best Practices]
 ### You can modify the 'permalink' at any time without worrying about SEO weight of the post being reduced.
 
 - That's because we append a `-` and the `id` to the end of each post link.
-    So for this post, the real URL would be like https://your-domain.com/this-is-an-example-post-x7I
+    So for this post, the real URL would be like [https://your-domain.com/this-is-an-example-post-x7I](https://your-domain.com/this-is-an-example-post-x7I).
 - Visiting a stale URL will be redirected to the fresh URL with status `301`.
 
 ## Key 'thumbnail'
@@ -52,7 +52,7 @@ For referencing a file, it is completely Markdown syntax, e.g., [empty example P
 
 Remember to put the images in the [/images](/images) directory. The blog **cannot** recognize other directories as image directory!
 
-For referencing an image, it is completely Markdown syntax.
+For referencing an image, it is completely Markdown syntax, e.g.,
 
 ![](/images/example_1.jpg)
 
