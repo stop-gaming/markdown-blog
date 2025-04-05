@@ -8,7 +8,7 @@ tags: [Markdown, Best Practices]
 ---
 
 - This file can be used as a template for a blog post.
-- The first 8 lines are metadata. The `id` is required, and the others can be omitted.
+- The [first 8 lines](https://raw.githubusercontent.com/RubyMarkdownBlog/markdown-blog/refs/heads/main/published/README.md) are metadata. The `id` is required, and the others can be omitted.
 
 ## Key 'id'
 
