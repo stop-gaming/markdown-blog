@@ -3,11 +3,12 @@ id: x7I
 title: This is an Example Post 1
 permalink: /
 date: 2025-03-19 10:29:28
+thumbnail: example_1.jpg
 tags: [Markdown, Best Practices]
 ---
 
 - This file can be used as a template for a blog post.
-- The first 7 lines are metadata. The `id` and `title` lines are required, and the others can be omitted.
+- The first 8 lines are metadata. The `id` is required, and the others can be omitted.
 
 ## Key 'id'
 
@@ -18,29 +19,34 @@ tags: [Markdown, Best Practices]
 
 ## Key 'permalink'
 
-### When 'permalink' is Empty, '/', or Invalid
+### When 'permalink' is empty, '/', or invalid
 
 - If the `permalink` value is empty, `/`, or invalid, we will automatically generate a `permalink` based on the value of `title`.
-
-  For example, if the title is `This is an Example Post`, the corresponding permalink will be `this-is-an-example-post`.
-
-  Spaces are replaced with `-`, illegal characters will be deleted, and uppercase letters are converted to lowercase letters.
-
-  Next time you modify the `title`, the value of `permalink` will also change accordingly.
+    - For example, if the title is `This is an Example Post`, the corresponding permalink will be `this-is-an-example-post`.
+    - Spaces are replaced with `-`, illegal characters will be deleted, and uppercase letters are converted to lowercase letters.
 
 ### You can modify the 'permalink' at any time without worrying about SEO weight of the post being reduced.
 
 - That's because we append a `-` and the `id` to the end of each post link.
-
-  So for this post, the real URL would be like https://your-domain.com/this-is-an-example-post-x7I
-
+    So for this post, the real URL would be like https://your-domain.com/this-is-an-example-post-x7I
 - Visiting a stale URL will be redirected to the fresh URL with status `301`.
+
+## Key 'thumbnail'
+
+- Files in the `jpg jpeg gif png` format in the [images](/images) directory will be synchronized to the `/public/images` directory on the blog server.
+- At the same time, the blog system will **automatically create a thumbnail** for each image. The naming rule is to add `_thumb` after the original image name, such as the thumbnail of `image_name.jpg` is `image_name_thumb.jpg`.
+- To display the automatically generated thumbnail in your blog post, you can use `thumbnail: image_name.jpg`. In fact, the image used in the blog is `/images/image_name_thumb.jpg`.
 
 ## Categories
 
 - Here, `categories` are **directories**, and they are **equivalent**. `posts` are placed in directories in the form of markdown files.
-
 - No matter you name the directory `ruby_on_rails`, `Ruby_on_Rails`, `ruby-on-rails`, `Ruby-on-Rails`, `Ruby on Rails`, or `Ruby On rails`, from the blog's point of view, they are the same `category`. The category's URL path name is `ruby-on-rails`, and the category's blog display name is `Ruby On Rails`.
+
+## Files
+
+Any file format in the [files](/files) directory will be synchronized to the `/public/files` directory on the blog server and can be referenced and downloaded in the blog.
+
+For referencing a file, it is completely Markdown syntax, e.g., [empty example PDF](/files/empty_example.pdf).
 
 ## How to add pictures to your posts?
 

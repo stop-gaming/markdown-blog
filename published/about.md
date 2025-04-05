@@ -3,6 +3,7 @@ id: me
 permalink: /about
 title: About Me
 date: 2025-03-09 18:23:07
+thumbnail: example_1.jpg
 tags: []
 ---
 
