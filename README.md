@@ -1,4 +1,4 @@
-# Markdown Blog Posts Template Repository
+# Markdown Blog Posts Template
 
 ## Markdown files
 
