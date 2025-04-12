@@ -22,6 +22,10 @@ Files in the `jpg jpeg gif png` format in the [/images](/images) directory will 
 
 Any file format in the [/files](/files) directory will be synchronized to the `/public/files` directory on the blog server and can be referenced and downloaded in the blog.
 
+## I18n
+
+You can see there is a [/i18n](/i18n) directory. Its purpose is to allow you to translate *posts* into multiple languages and display them on the website. Currently, this feature is still under development, so stay tuned.
+
 ## Learn more
 
 Please read [published/README.md](/published/README.md) to learn more.
