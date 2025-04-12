@@ -1,5 +1,5 @@
 ---
-id: x7I
+id: README
 title: This is an Example Post 1
 permalink: /
 date: 2025-03-19 10:29:28
@@ -13,8 +13,9 @@ tags: [Markdown, Best Practices]
 ## Key 'id'
 
 - `id` is **required**. Post will not be created on the blog without an `id`.
+- For an `id` value, only upper and lower case letters, numbers, and `_` are valid. `-` will be replaced by `_`.
+- If `id` contains invalid characters, the post will **not** be created.
 - `id` should be **unique**. If multiple posts have the same `id`, only one post will be displayed on the blog.
-- For an `id` value, upper and lower case letters, numbers, and `_` are valid. `-` will be replaced by `_`.
 - You can name the Markdown file anything you want. The file name doesn't matter because we mainly use `id` to identify a *post*.
 
 ## Key 'permalink'
@@ -22,13 +23,12 @@ tags: [Markdown, Best Practices]
 ### When 'permalink' is empty, '/', or invalid
 
 - If the `permalink` value is empty, `/`, or invalid, we will automatically generate a `permalink` based on the value of `title`.
-    - For example, if the title is `This is an Example Post`, the corresponding permalink will be `this-is-an-example-post`.
-    - Spaces are replaced with `-`, illegal characters will be deleted, and uppercase letters are converted to lowercase letters.
+- For example, if the title is `This is an Example Post`, the corresponding permalink will be `this-is-an-example-post`. Spaces are replaced with `-`, illegal characters will be deleted, and uppercase letters are converted to lowercase letters.
 
 ### You can modify the 'permalink' at any time without worrying about SEO weight of the post being reduced.
 
 - That's because we append a `-` and the `id` to the end of each post link.
-    So for this post, the real URL would be like [https://your-domain.com/this-is-an-example-post-x7I](https://your-domain.com/this-is-an-example-post-x7I).
+    So for this post, the real URL would be like [https://your-domain.com/this-is-an-example-post-README](https://your-domain.com/this-is-an-example-post-README).
 - Visiting a stale URL will be redirected to the fresh URL with status `301`.
 
 ## Key 'thumbnail'
