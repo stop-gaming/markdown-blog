@@ -1,14 +1,14 @@
 ---
 id: README
-title: This is an Example Post 1
+title: The README of markdown-blog Repository
 permalink: /
 date: 2025-03-19 10:29:28
 thumbnail: example_1.jpg
-tags: [Markdown, Best Practices]
+tags: [Markdown Blog, Guide]
 ---
 
 - This file can be used as a template for a blog post.
-- The [first 8 lines](https://raw.githubusercontent.com/resumeblog/markdown-blog/refs/heads/main/published/README.md) are metadata. The `id` is required, and the others can be omitted.
+- The [first 8 lines](https://raw.githubusercontent.com/CoderResume/markdown-blog/refs/heads/main/published/README.md) are metadata. The `id` is required, and the others can be omitted.
 
 ## Key 'id'
 
@@ -28,7 +28,7 @@ tags: [Markdown, Best Practices]
 ### You can modify the 'permalink' at any time without worrying about SEO weight of the post being reduced.
 
 - That's because we append a `-` and the `id` to the end of each post link.
-    So for this post, the real URL would be like [https://your-domain.com/this-is-an-example-post-README](https://your-domain.com/this-is-an-example-post-README).
+    So for this post, the real URL would be like [https://your-domain.com/the-readme-of-markdown-blog-repository-README](https://your-domain.com/the-readme-of-markdown-blog-repository-README).
 - Visiting a stale URL will be redirected to the fresh URL with status `301`.
 
 ## Key 'thumbnail'
