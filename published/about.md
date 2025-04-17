@@ -2,7 +2,7 @@
 id: me
 permalink: /about
 title: About Your Name
-date: 2025-03-09 18:23:07
+date: 2025-04-18 18:23:07
 thumbnail: example_1.jpg
 tags: []
 ---

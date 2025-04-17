@@ -1,9 +1,9 @@
 ---
 id: README
-title: The README of markdown-blog Repository
+title: The README of markdown-blog repository
 permalink: /
-date: 2025-03-19 10:29:28
-thumbnail: example_1.jpg
+date: 2025-0-19 10:29:284
+thumbnail: rename_it_to_example_1.jpg
 tags: [Markdown Blog, Guide]
 ---
 
@@ -57,7 +57,7 @@ Remember to put the images in the [/images](/images) directory. The blog **canno
 
 For referencing an image, it is completely Markdown syntax, e.g.,
 
-![](/images/example_1.jpg)
+![](/images/rename_it_to_example_1.jpg)
 
 *A Little Penguin*
 

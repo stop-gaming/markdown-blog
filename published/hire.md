@@ -1,8 +1,8 @@
 ---
 id: change_to_your_first_name_is_recommended
 permalink: /hire
-title: You are Welcome to Hire Me! 
-date: 2025-04-07 08:42:57
+title: Hire me and you'll be pleasantly surprised! 
+date: 2025-04-17 08:42:57
 thumbnail: example_1.jpg
 tags: []
 ---
