@@ -11,7 +11,7 @@ Your blog's **Hire Me** page is generated from this file. Please modify the cont
 
 You can change anything in this file except for the `permalink: /hire` because it indicates that this post corresponds to a special link on the blog, such as `https://your-domain.com/hire`, which is used to guide potential employers towards hiring you.
 
-This article will also be displayed at URL https://your-domain.com/hire-change_to_your_first_name_is_recommended if you do not change the `id: change_to_your_first_name_is_recommended`.
+This article will also be displayed at URL https://your-domain.com/blog/hire-change_to_your_first_name_is_recommended if you do not change the `id: change_to_your_first_name_is_recommended`.
 
 Below is a short example.
 
