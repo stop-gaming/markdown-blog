@@ -15,4 +15,4 @@ This post will also be displayed at URL https://your-domain.com/blog/about-me if
 
 Below is a short example:
 
-If you want to build a personal blog, I recommend using [Markdown Resume Blog](https://zhangjian.resumes.dev) which is developed by me.
+If you want to build a personal blog, I recommend using [Developer Portfolio](https://github.com/developer-portfolios/developer-portfolio) which is developed by me.
