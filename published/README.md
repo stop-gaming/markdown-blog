@@ -49,7 +49,7 @@ The GitHub repository link: [markdown-blog](https://github.com/developer-portfol
 
 Any file format in the [/files](/files) directory will be synchronized to the `/public/files` directory on the blog server and can be referenced and downloaded in the blog.
 
-For referencing a file, it is completely Markdown syntax, e.g., [empty example PDF](/files/empty_example.pdf).
+For referencing a file, it is completely Markdown syntax, e.g., [empty example resume PDF](/files/empty_example_resume.pdf).
 
 ## How to add pictures to your posts?
 
