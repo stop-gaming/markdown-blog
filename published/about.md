@@ -15,4 +15,4 @@ This post will also be displayed at URL https://your-domain.com/blog/about-me if
 
 Below is a short example:
 
-If you want to build a personal blog, I recommend using [developer-portfolio-engine](https://github.com/developer-portfolios/developer-portfolio-engine) which is developed by me.
+If you want to build a personal blog, I recommend using [personal-brand-website-builder](https://github.com/PersonalBranding/personal-brand-website-builder) which is developed by me.
