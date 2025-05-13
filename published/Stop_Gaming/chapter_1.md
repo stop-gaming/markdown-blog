@@ -7,8 +7,6 @@ thumbnail: chapter1.png
 tags: [Stop Gaming]
 ---
 
-# How to Quit Gaming and Internet Addiction (by Zhang Jian)
-
 # Preface
 
 This book is written for parents who are eager to help their children quit gaming (or control the length of time they play games) and Internet addiction. It is also beneficial for players to read this book. In a while, I will present a new book to players.

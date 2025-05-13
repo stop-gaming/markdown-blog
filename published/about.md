@@ -1,18 +1,24 @@
 ---
 id: me
 permalink: /about
-title: About Your Name
-date: 2025-04-18 18:23:07
-thumbnail: example_1.jpg
+title: About Zhang Jian, the Game Addiction Coach
+date: 2025-11-13 16:18:47
+thumbnail: him/outdoor_004.jpg
 tags: []
 ---
 
-Your blog's **About Me** page is generated from this file. Please modify the contents of this file to suit your own needs.
+![](../images/him/outdoor_004.jpg)
 
-You can change anything in this file except for the `permalink: /about` because it indicates that this post corresponds to a special link on the blog, such as https://your-domain.com/about, which is used to introduce yourself.
+Hello, I'm glad you're visiting my blog! I'm Zhang Jian, from Suzhou, China.
 
-This post will also be displayed at URL https://your-domain.com/blog/about-me if you do not change the `id: me`.
+I'm currently a freelancer doing online web development work, quoting $30/hour.
 
-Below is a short example:
+In my spare time, I contribute code to the open source project [Markdown Resume Blog](https://github.com/PersonalBranding/personal-brand-website-builder).
 
-If you want to build a personal blog, I recommend using [personal-brand-website-builder](https://github.com/PersonalBranding/personal-brand-website-builder) which is developed by me.
+This is my own project and the blog engine for the website you're currently visiting.
+
+In addition, I also created the website [LeetCode.blog](https://leetcode.blog) to teach programming algorithms.
+
+Of course, what you care about most is: **I used to be addicted to video games, but later I quit completely**. If you want to know how I quit games, please follow this site!
+
+If you need my service, please contact me!
