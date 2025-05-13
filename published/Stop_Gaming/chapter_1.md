@@ -1,7 +1,7 @@
 ---
 id: c1
 title: How to Quit Gaming and Internet Addiction (by Zhang Jian)
-permalink: /zhang-jian-teaches-how-to-stop-gaming-and-internet-addiction
+permalink: /how-to-stop-gaming-and-internet-addiction-by-zhangjian
 date: 2025-03-07 09:20:52
 thumbnail: chapter1.png
 tags: [Stop Gaming]
