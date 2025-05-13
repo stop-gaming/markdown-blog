@@ -59,5 +59,6 @@ After knowing the correct way to study, the player develops a fear of games from
 
 Think about it, **If the player really regards electronic games as a scourge, will he still play?**
 
+
 Wang Yangming said: "He who wins easily is a great sage." This is the truth.
 
