@@ -2,7 +2,7 @@
 id: me
 permalink: /about
 title: About Zhang Jian, the Game Addiction Coach
-date: 2025-11-13 16:18:47
+date: 2025-04-13 16:18:47
 thumbnail: him/outdoor_004.jpg
 tags: []
 ---
