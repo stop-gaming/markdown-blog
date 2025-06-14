@@ -33,15 +33,15 @@ If you want to quit, players have to fight against the dual pressure of physical
 
 The scientific and easy way to quit games is:
 
-- **(“害”) Realize the harm of games.**
-- **(“伊” means “意”) It is easy to fail to fight games with “willpower”, but you still need to strengthen “willpower”.**
-- **(“只” means “智”) Rely on “think tanks” to implement “heteronomy”.**
-- **(“戒”) It is best to quit video games completely right now.**
-- **(“一”) If you can’t make up your mind to quit, just play a little bit of games – quit for a month first, then play less than four hours a week.**
-- **(“季” is the same as “计”) If playing just a few games is not possible, play games “according to the plan”.**
-- **(“度” is the same as “读”) Cultivate your body and mind by “reading more, making more money, and dating”, and eventually change your love for games to fear and quit games (or play only a few games).**
+- **(“Harm”) Realize the harm of games.**
+- **(“Yi” means “Will”) It is easy to fail to fight games with “willpower”, but you still need to strengthen “willpower”.**
+- **(“Zhi” means “Wisdom”) Rely on “think tanks” to implement “external discipline”.**
+- **(“Quit”) It is best to quit video games completely right now.**
+- **(“One”) If you can’t make up your mind to quit, just play a little bit of games – quit for a month first, then play less than four hours a week.**
+- **(“Ji” means “Plan”) If playing just a few games is not possible, play games “according to the plan”.**
+- **(“Du” means “Read”) Cultivate your body and mind by “reading more, making more money, and dating”, and eventually change your love for games to fear and quit games (or play only a few games).**
 
-The above seven lines represent seven actions, each of which is represented by a shorthand word, and together they are “**害伊只戒一季**”. The following will introduce these seven actions in detail.
+The above seven lines represent seven actions, each of which is represented by a shorthand word, and together they are “**Hai Yi Zhi Jie Yi Ji Du**” (Harm, Willpower, Wisdom, Quit, One, Plan, Read). The following will introduce these seven actions in detail.
 
 # I. Understand the harm of games
 
