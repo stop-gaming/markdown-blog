@@ -43,7 +43,7 @@ The scientific and easy way to quit games is:
 
 The above seven lines represent seven actions, each of which is represented by a shorthand word, and together they are “**害伊只戒一季**”. The following will introduce these seven actions in detail.
 
-# Understand the harm of games
+# I. Understand the harm of games
 
 Players must have enough knowledge of the harm of games. If they can't do this, they can't quit playing games! Playing games is harmful to players in all aspects, including "physical, mental, family, social, academic, and career". Zhang Jian made up his mind to quit playing games after evaluating the pros and cons of playing games, and found that the disadvantages of playing games far outweighed the benefits of playing games. If you don't quit, you're a fool! There is a chapter below called "Analysis of the pros and cons of playing games". Players are requested to fill it out and evaluate it when reading this chapter.
 
@@ -157,3 +157,220 @@ Initially, most players do not have a deep understanding of these two prerequisi
 Please see the next best solution—don't play for a month first, then play for less than four hours a week.
 
 Compared to the "best solution—never play games again," "controlling gaming time" is the "next best solution." In the process of implementing the "next best solution," players continuously strengthen their understanding of the two prerequisites through "reading more, earning more, and dating." One day, the player will achieve enlightenment and make the decision to never play any video games again!
+
+# V. Next Best Solution: Abstain from Games for One Month, Then Play Less Than Four Hours a Week
+
+This plan is the optimal solution for "controlling game time."
+
+## Theoretical Basis
+
+The areas in the human brain that experience pleasure and pain are the same. **Playing games leads to an excessive production of dopamine in the brain. To cope with this, the brain reduces the number of dopamine receptors**, causing players to need to play more games to achieve the desired pleasure. **If they don't play games, they are more likely to feel pain than ordinary people!**
+
+**Due to a reduced number of "dopamine receptors," players find it difficult to experience sufficient pleasure from the naturally produced dopamine in daily life! This is "dopamine receptor deficiency syndrome."** This indicates that when controlling game time, players need to combat not only psychological factors but also physiological ones.
+
+**After abstaining from games for one month, players only need to combat psychological factors, as their dopamine receptor count will have returned to normal by then.** Additionally, after a month, players can experience life without games—it will surely be wonderful and help them think more clearly about playing games.
+
+## Operational Steps
+
+Each month, the player fills out the "Pros and Cons Analysis Table for Playing Games" (see the chapter "Pros and Cons Analysis Table for Playing Games" in the later chapter, not in this chapter), and then **makes decision (1): whether to quit games completely**.
+
+If they choose to "quit games completely," they will be free from the troubles of video games for life!
+
+If they choose "not to quit games," please make the next **decision (2): whether to abstain from games next month as well**.
+
+If they decide "to abstain from games next month as well," then after one month, repeat the two steps above.
+
+If they decide "to play games next month," **then they must enter "safe gaming mode"—playing a maximum of four hours of games per week, at fixed times, and in no more than two sessions.** It is called "safe mode" because the amount of gaming is small, so physiologically, "dopamine receptor deficiency syndrome" symptoms will not appear, **there will be no withdrawal reactions**, and control over games will be strong. That is to say, **players can remain stable in "safe gaming mode" playing less than four hours a week or not playing games at all in the long term.**
+
+Players must first experience "safe gaming mode" for one month. After completion, the player can make **decision (3): how many hours of games to play per week next month**. If satisfied with "safe gaming mode," **it is strongly recommended to maintain "safe gaming mode" long-term, for life (or quit altogether)**.
+
+If they decide to increase gaming time next month and no longer continue "safe gaming mode," they will automatically enter the "play games according to plan" solution.
+
+## Precautions
+
+To maintain playing less than four hours a week, it is necessary to **create a weekly gaming plan and only play games during fixed time slots**.
+
+**Players must immediately notify mastermind group members "before playing games" and "after finishing games."**
+
+Keep the computer locked up at other times. If the child is already working and needs a computer for work, two computers can be purchased: one specifically for work, and one specifically for games and entertainment.
+
+Also, do not arrange to play games with strangers, and try to avoid establishing new interpersonal connections in games, because people sometimes do things they are unwilling to do due to personal relationships. When the game time is up, but they are cooperating with someone in a game, they may feel embarrassed to quit first, leading to playing overtime. If the player feels that playing games alone is too boring, parents can play games with the child, mainly to cultivate a close parent-child relationship, without getting too invested.
+
+**Each month, players need to refill the "Pros and Cons Analysis Table for Playing Games"** to plan and make decisions for the next month. Re-evaluate every month, and players can increase their game time, so there is no pressure. Parents need to let their children understand your requirements for their game time, and ultimately, reach a decision that accommodates both parties.
+
+If the "next best solution" is currently unacceptable to the player, parents can help the child adopt the "play games according to plan" solution. The "next best solution" itself is the most ideal state of the "play games according to plan" solution. Therefore, for families implementing the "next best solution," parents must also read "play games according to plan" and act according to its guidance.
+
+# VI. Play Games According to Plan
+
+There is only one difference between the "play games according to plan" solution and the "next best solution"—it skips two months, namely the month of "not playing games" and the month of "playing less than four hours a week."
+
+## Identifying Problems
+
+### Problem One: Playing Games on Impulse
+
+Let's first look at how a player starts a game.
+
+The player completes some study or work tasks, gets some rest time, and feels the need to relax.
+
+They think about what can relax them the most. First, they rule out relaxation methods with high acquisition costs, such as dating. Then, they rule out entertainment activities with low excitement levels, such as reading news. Finally, short videos and games become the top choices.
+
+However, the thrill of watching short videos is passively received, not as exciting as the thrill of a short video going viral, because proactive behavior can create a sense of superiority and be more exciting. Games happen to provide players with this, surpassing the experience of watching short videos.
+
+After repeating this many times, the above decision-making process will speed up, to the point where the player directly chooses to play games.
+
+In a day, there are more than twenty opportunities to relax. **If a child has a mobile phone or computer nearby, they will start playing games more than twenty times, which is a big problem! Players will constantly think about games, and eventually, they will be unable to do anything else well except play games.**
+
+**"Impulsive gaming" must be constrained by a "plan"!**
+
+### Problem Two: Unable to Stop Once Started Playing
+
+In fact, all game players have made "game playing plans" before, but they are almost always ineffective, and they still often play overtime, with "plans often failing to keep up with changes." The reason is: **games are too fun, and when excited, rationality can hardly overcome sensibility, leading to an inability to stop once started.**
+
+What to do if a player can't stop playing games?
+
+**Parents help them stop! Interrupt the game they are playing!**
+
+**Let them know that strictly "playing games according to plan" is more beneficial than harmful to them.**
+
+To make rationality truly play a decisive role, players need to see through games, which requires considerable effort and learning. Enhancing rational decision-making ability will be detailed in the next section. This section focuses on providing **the conventional means of controlling game time—playing games according to plan.**
+
+## Operational Steps
+
+**"Playing games according to plan" means making a plan for the next month at the end of each month, deciding the weekly gaming hours for the next month.** The specific process is as follows:
+
+Each month, the player fills out the "Pros and Cons Analysis Table for Playing Games" (see the chapter "Pros and Cons Analysis Table for Playing Games" below), and then makes **decision (1): whether to quit games completely**.
+
+If they choose to "quit games completely," they will be free from the troubles of video games for life!
+
+If they choose "not to quit games," please make the next **decision (2): whether to abstain from games next month as well**.
+
+If they decide "to abstain from games next month as well," then after one month, repeat the two steps above.
+
+If they decide "to play games next month," please make the next **decision (3): whether to adopt the "next best solution," i.e., abstain from games for one month first, then enter "safe gaming mode"—playing a maximum of four hours of games per week** (see previous section for details).
+
+If they decide to adopt the "next best solution," refer to the operations in the previous section.
+
+If they decide not to adopt the "next best solution," please make the next **decision (4): how many hours of games to play per week next month**.
+
+**Each month, one can freely choose to play fewer games; however, if choosing to increase game time, it can only be increased to the next level of the current month's gaming volume.** There are a total of 16 levels:
+
+- 1) Quit completely: Absolutely healthy
+- 2) Don't play for the current month: Healthy for the current month
+- 3) Play within 4 hours a week: Safe sub-healthy
+- 4) Play within 7 hours a week: Dangerous sub-healthy
+- 5) Play within 14 hours a week: Mild disorder (average 1.x hours/day)
+- 6) Play within 21 hours a week: Moderate disorder (average 2.x hours/day)
+- 7) Play within 28 hours a week: Severe disorder A (average 3.x hours/day)
+- 8) Play within 35 hours a week: Severe disorder B (average 4.x hours/day)
+- 9) Play within 42 hours a week: Hospitalization-level disorder A (average 5.x hours/day)
+- 10) Play within 49 hours a week: Hospitalization-level disorder B (average 6.x hours/day)
+- 11) Play within 56 hours a week: ICU-level disorder A (average 7.x hours/day)
+- 12) Play within 63 hours a week: ICU-level disorder B (average 8.x hours/day)
+- 13) Play within 70 hours a week: ICU-level disorder C (average 9.x hours/day)
+- 14) Play within 77 hours a week: Speechless-level disorder A (average 10.x hours/day)
+- 15) Play within 84 hours a week: Speechless-level disorder B (average 11.x hours/day)
+- 16) Play over 84 hours a week: Speechless-level disorder C (average 12+ hours/day)
+
+Then, allocate the planned weekly hours to weekdays and holidays. On weekdays, due to work or school, play less, or preferably not at all, concentrating play on weekends to prevent precious attention from being diverted on weekdays.
+
+## Precautions
+
+**The specific "time slots" for playing games each week must be "fixed" to avoid any impulsive gaming!** (Example: Only play games between 8:30 and 10:30 on Saturdays and Sundays, not at other times.) **Form routines and habits, using habits to achieve self-discipline.** This also makes it convenient for "mastermind group" members to monitor. If a planned gaming slot is missed, game time can only be made up with the consent of "mastermind group" members.
+
+Avoid playing overtime every day, so that weekly and monthly limits are not exceeded. "Playing games according to plan" allows for playing less or not at all, but does not allow playing overtime.
+
+**Players need to discuss and create a gaming schedule with mastermind group members, only playing games during the stipulated time slots, and keeping the computer (or mobile phone) locked at other times.**
+
+**Players must report to mastermind group members "before playing games" and "after finishing games," and mastermind group members should also actively monitor the player's gaming time.**
+
+Undoubtedly, relying solely on the player to implement "playing games according to plan" will fail. Because once they start playing, dopamine surges, and it is very difficult to stop on their own. **When a player cannot stop playing, "mastermind group members" should kindly remind them and help them stop the game.**
+
+"Playing games according to plan," after all, is not the best or next best solution, and the possibility of failure is much greater than the former two. Even so, it is still an excellent solution. If, after implementation, the effect is not ideal, it is necessary to reflect on whether every step has been strictly followed. If it really doesn't work, implement the "best" or "next best solution," and things will become simpler.
+
+## How to Plan Game Time
+
+You might ask, if the player secretly plays games and doesn't report to the mastermind group, wouldn't the "play games according to plan" be ruined?
+
+Actually, when we make a gaming plan, we require parents not to force children to play too little, but it's not entirely based on what the child says. **Game time is a consensus reached through mutual compromise between parents and children, and it is only valid for the next month.**
+
+Players have no reason to refuse the "play games according to plan" solution because, from the beginning, this plan does not excessively reduce the player's game time. It can even be said that if the mastermind group members and the player reach an agreement, the game time for the next month can be increased (up to one level).
+
+So, the game time is sufficient for the player, and at the same time, the player can balance life and study. This balance of study, life, and games brings positive changes to the player, and the player will be joyful, so they don't want to play more games at all.
+
+## Effects and Reasons for Effectiveness
+
+**"Playing games according to plan" truly gives players a sense of control over games.** Previously, when players played overtime, they would blame themselves, but to no avail, and might even think, "Since I've already played overtime, I might as well continue playing until I'm dizzy." Now, because they need to report the start and end times of gaming, players have an added sense of responsibility to their families.
+
+Ultimately, by not playing overtime each time, players feel they are truly mastering the game, not being controlled by it. Originally, **children themselves don't feel the need to play for that long; they only play too much because they can't stop.** So, with "playing games according to plan," players will naturally reduce their game time.
+
+Based on Zhang Jian's experience, if he had been able to implement "playing games according to plan" as described in this section during his university years, he **could have reduced his gaming time by 50% from the start**, because two hours of gaming a day is sufficient for a university student, whereas he was averaging four hours a day, which was completely excessive. Did he want to play four hours a day? Not at all! He simply couldn't stop back then.
+
+Parents also don't need to worry about their children playing games anymore, because playing games is not a sin now; it's a plan for the family. **At the end of each day, if parents find that their child has controlled their gaming time well, please don't be stingy with your approval for your child; sincerely express your inner joy!**
+
+Parents might worry, what if, under "playing games according to plan," the child requests longer and longer gaming times? This requires relying on "**reading more, earning more, and dating**" to update the child's thoughts and shift their goals.
+
+# VII. Read More, Earn More, Date More
+
+The purpose of players doing these three things—"read more, earn more, date more"—is to pull people back from a frustrating real life and ultimately stop them from lingering on online games. Loners play more.
+
+Game time scattered throughout the day is not as good as concentrating it to play to one's heart's content. If attention is dispersed, even thinking about games counts, and the duration should be doubled. Short gaming sessions often leave one feeling unfulfilled; this way, one can be fully satisfied. Game days can be set, for example, a certain day on the weekend, playing for 8 or 4 hours. Compare this to playing a little over an hour a day.
+
+Enjoy life to the fullest at other times. Play to your heart's content, and live life beautifully. Don't mix games and life, or you'll end up doing neither well.
+
+## Read More
+
+**To help a child quit games, the key is to change the child's perception of playing games—from loving games to hating them. How to change this perception? The most cost-effective way is, of course, to buy and read extracurricular books. Reading is the process of establishing a "mastermind group" with the author of the book.**
+
+Choosing to read the most classic good books, non-fiction books written by the most famous authors, is the fastest way to enhance a child's potential. "Standing on the shoulders of giants" made Isaac Newton a great scientist; if not for reading, Newton might have just been a farmer.
+
+What a child does during non-gaming time is crucial to influencing their gaming time! Children have academic responsibilities, and doing well in their studies is important. However, most children have not yet found the joy of learning textbooks for various reasons, and how to help children find the joy of learning textbooks is key.
+
+School education models are relatively uniform, but the gap between top students and underachievers in the same school is significant, mainly due to differences in family education. I advocate for quality-oriented education, oppose exam-oriented education, and oppose cultivating children into high-scoring, low-ability, one-dimensional youths. In the long run, the results of quality-oriented education will be far more fruitful than exam-oriented education.
+
+Schools teach knowledge. Liberal arts often require memorization, and few people enjoy memorizing things. So how can we guide children to discover an interest in liberal arts? Science mainly relies on understanding; how can we inspire children to love science? For example, if a fourth-grader reads three hundred books a year, do you think this child will be poor in liberal arts? If their dream is to become a mathematician, will they be poor in science? Will their gaming time be long?
+
+When children spend a lot of time reading various **extracurricular books**, they can discover their direction for effort:
+
+- **First, they cannot play games while reading (exclusivity of time);**
+- **Second, while reading, they are broadening their horizons, and the narrow world of games gradually cannot contain them. They want to explore the entire universe!**
+
+Thoughts determine actions. If a child has no goals in life and doesn't know the meaning of life, it's normal for them to play games.
+
+**Only through extensive reading of good books can a child's thoughts be quickly updated and enriched, and their doubts resolved. Eventually, they will no longer be confused and will find their direction for effort—naturally, games will become an obstacle to achieving their goals and must be removed!**
+
+## Earn More
+
+Children should receive financial literacy education before adulthood to cultivate correct attitudes towards work and earning money. **Earning money is actually being rewarded for helping others solve problems through effort.**
+
+Earning money can establish connections with others and reduce connections with the virtual world. When earning money, players cannot play games (exclusivity of time).
+
+Earning money requires doing things. If things are done well, customers are happy; if things are not done well, customers are dissatisfied. To satisfy customers, one must work hard. Therefore, earning money can build a sense of responsibility towards others and society. Children's willful gaming is also due to a lack of responsibility.
+
+## Date More
+
+The pleasure and excitement of dating are stronger, real joys that children cannot experience from games. When with a lover, the heartbeat accelerates, and the mood is joyful and excited. Feeling loved by others allows one to feel one's own value.
+
+**After falling in love, children may not even have time to play games because their lover needs companionship, and playing games will be interpreted by the lover as refusing companionship.** Love is a two-person affair; in the process of handling relationships with a lover, children will mature quickly.
+
+# VIII. Summary—Harm Yi Zhi Jie Yi Ji Du (Mnemonic)
+
+To help parents remember the above content, I have summarized it into a mnemonic: "**Hai Yi Zhi Jie Yi Ji, Du Shu Zhuan Qian Lian Ai.**" ((Harm, Willpower), Mastermind, (Quit, One, Plan), (Read, Earn, Date))
+
+- **"Hai" (Harm) refers to realizing the "harm" of games, working on one's thoughts. (Self-discipline)**
+- **"Yi" (Willpower) is a homophone for "意" (meaning), referring to the fact that relying solely on "willpower" to control game time is prone to failure. (Self-discipline)**
+- **"Zhi" (Mastermind) is a homophone for "智" (wisdom), referring to controlling game time with the help of a "mastermind group" for external discipline. (External discipline)**
+- **"Jie" (Quit) refers to "making a decision to 'quit' games forever" as the best method. (Plan)**
+- **"Yi" (One) refers to first abstaining from games for "one" month, then entering a safe gaming mode of playing less than four hours a week. (Plan)**
+- **"Ji" (Plan - quarter) is a homophone for "计" (plan), referring to playing games according to a "plan". (Plan)**
+- **"Du" (Read) is a homophone for "读" (read); "Read More, Earn More, Date More" refers to reading more, earning more, and dating more. (Self-discipline and External discipline)**
+
+This seven-character mnemonic—**"Hai Yi Zhi Jie Yi Ji Du" ((Harm, Willpower), Mastermind, (Quit, One, Plan), (Read, Earn, Date)**, belongs to three aspects: "Self-discipline," "External discipline," and "Plan." It can effectively guide the work of quitting games, and it is hoped that parents can memorize it.
+
+Finally, the child develops a habit of reading, becomes a knowledgeable person, and shifts their life focus to studying and earning money, willingly taking responsibility for everything, and looking forward to a beautiful love life. At this point, the child finds that games are insignificant and strongly dislikes their own gaming behavior, considering it a waste of time. Thus, the child plays games less and less. In the end, with fear and hatred for games, the child decides to "never play any video games again"!
+
+Parents will find that helping their children quit games using this method will naturally lead to success. After succeeding in the fight against games, parents still cannot let their guard down. Because the child has just gotten on the right track, has not read enough books, and still has a considerable proportion of misconceptions in their mind; moreover, there are many temptations in the future, and we need to help the child consolidate the victory.
+
+Later, I will detail the seven actions mentioned above, **"Hai Yi Zhi Jie Yi Ji Du." (Harm, Willpower, Mastermind, (Quit, One, Plan), (Read, Earn, Date)) Among these seven actions, the core actions are "Mastermind Group" and "Reading," i.e., "Zhi Du" (Wisdom Reading).** "Mastermind Group" leads to "External discipline," and "Reading" leads to "Self-discipline." "Self-discipline," "External discipline," and "Plan"—with these three working together, quitting games is a sure thing!
+
+This chapter ends here. In the next chapter, I will talk to you about "Gaming Disorder."
+
